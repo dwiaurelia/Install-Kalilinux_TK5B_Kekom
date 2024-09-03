@@ -44,7 +44,9 @@ Install Kalilinux
 
 ![image](https://github.com/user-attachments/assets/1ebf2162-9baf-49bd-8971-aa20c39b8d57)
 
+![image](https://github.com/user-attachments/assets/7435a107-4ecc-4736-9a2e-838bd48ebca8)
 
+![image](https://github.com/user-attachments/assets/7882e0b6-0711-40c8-98b1-fd40aa2e1b0a)
 
 
 
