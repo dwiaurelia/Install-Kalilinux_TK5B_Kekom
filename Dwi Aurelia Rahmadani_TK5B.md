@@ -1,4 +1,9 @@
+__Nama : Dwi AUrelia Rahmadani__
+__Nim  : 09030582226038__
+__Kelas: TK5B__
+
 Install Kalilinux
+
 
 ![image](https://github.com/user-attachments/assets/5c94285f-5ecb-45e7-866b-4be0ad594801)
 
