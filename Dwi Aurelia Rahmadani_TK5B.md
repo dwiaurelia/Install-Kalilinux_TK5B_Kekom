@@ -53,18 +53,25 @@ Install Kalilinux
 15. Pada tampilan "Partition diks" pilih "Guided-use entire disk"
 ![image](https://github.com/user-attachments/assets/b841b7d5-d954-402c-b861-e00fe368500b)
 
+16. klik "continue"
 ![image](https://github.com/user-attachments/assets/646b0935-8b6e-448f-88d7-35cc3d398709)
 
+17. pilih "all files in one partition (recommended for new users" lalu klik "continue"
 ![image](https://github.com/user-attachments/assets/f2b6d7f4-619a-472a-97c6-53926998443c)
 
+18. pilih "finish particioning and write changes to disk" lalu klik "continue"
 ![image](https://github.com/user-attachments/assets/ffd80656-4087-4ede-a4dd-b5cfee658413)
 
+19. pilih "yes" lalu klik "continue"
 ![image](https://github.com/user-attachments/assets/06633890-8601-4f74-be18-974d6ac6d2ee)
 
+20. klik "continue"
 ![image](https://github.com/user-attachments/assets/1ebf2162-9baf-49bd-8971-aa20c39b8d57)
 
+21. ketik "/dev/sda" lalu klik "continue" 
 ![image](https://github.com/user-attachments/assets/7435a107-4ecc-4736-9a2e-838bd48ebca8)
 
+22. tampilan akhir kalilinux
 ![image](https://github.com/user-attachments/assets/7882e0b6-0711-40c8-98b1-fd40aa2e1b0a)
 
 
